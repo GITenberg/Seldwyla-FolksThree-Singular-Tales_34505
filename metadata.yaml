@@ -23,6 +23,8 @@ creator:
     - http://de.wikipedia.org/wiki/Gottfried_Keller
     - http://en.wikipedia.org/wiki/Gottfried_Keller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34505#Seldwyla-FolksThree-Singular-Tales
 gutenberg_issued: '2010-11-29'
 gutenberg_type: Text
 identifiers:
