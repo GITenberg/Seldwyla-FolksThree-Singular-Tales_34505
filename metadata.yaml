@@ -1,0 +1,39 @@
+_repo: Seldwyla-FolksThree-Singular-Tales_34505
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schierbrand, Wolf von
+    alias: Von Schierbrand, Wolf
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '35095'
+    url: http://www.gutenberg.org/2009/agents/35095
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keller, Gottfried
+    alias: Keller, Gotfryd
+    birthdate: 1819
+    deathdate: 1890
+    gutenberg_agent_id: '2159'
+    url: http://www.gutenberg.org/2009/agents/2159
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Gottfried_Keller
+    - http://en.wikipedia.org/wiki/Gottfried_Keller
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Switzerland -- Social life and customs -- Fiction'
+tableOfContents: Three decent combmakers -- Dietegen -- Romeo and Juliet of the village.
+title: 'Seldwyla Folks: Three Singular Tales'
+url: http://www.gutenberg.org/ebooks/34505
